@@ -1,0 +1,1 @@
+dist/mac-arm64/Calculator.app
