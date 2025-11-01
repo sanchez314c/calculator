@@ -179,6 +179,14 @@ build-temp/
 
 # App symlinks (development)
 Calculator.app
-Calculator-arm64.appvenv/
+Calculator-arm64.app
+
+# Python virtual environments
+venv/
+ENV/
+env/
+__pycache__/
+
+# Archive
 archive/
 dist/
