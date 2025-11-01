@@ -179,6 +179,4 @@ build-temp/
 
 # App symlinks (development)
 Calculator.app
-Calculator-arm64.appvenv/
-archive/
-dist/
+Calculator-arm64.app
