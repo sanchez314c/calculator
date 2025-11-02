@@ -1,6 +1,6 @@
 # Calculator 🧮
 
-> Modern, cross-platform desktop calculator with a sleek dark theme
+> Modern Desktop Calculator - Clean, fast, and intuitive calculations
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
@@ -11,7 +11,7 @@
 
 ## 📸 Main Interface
 
-![Calculator Screenshot](build_resources/screenshots/calculator-interface.jpg)
+![Calculator Screenshot](build_resources/screenshots/calculator-interface-01.jpg)
 
 > A beautiful, professional calculator designed for modern desktops with an elegant dark interface
 
@@ -251,4 +251,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Calculator v1.0** - Modern Desktop Calculator
-Made with AI!
+Built with AI!
